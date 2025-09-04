@@ -47,3 +47,9 @@ npx create-react-app my-app
 
 See Docker info also at: 
 https://github.com/nvm-sh/nvm?tab=readme-ov-file#intro
+
+
+## TODO
+https://marketplace.visualstudio.com/items?itemName=LucidLayer.traceform-vscode
+https://marketplace.visualstudio.com/items?itemName=achil.vscode-javascript-repl
+https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp
