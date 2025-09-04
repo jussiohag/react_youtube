@@ -41,3 +41,9 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
 https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
 
 npx create-react-app my-app
+
+
+### Docker
+
+See Docker info also at: 
+https://github.com/nvm-sh/nvm?tab=readme-ov-file#intro
