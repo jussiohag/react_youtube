@@ -1,9 +1,8 @@
 # react_youtube
 React component with YouTube Search
 
-## Install 
-https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
-
+## Installation
+npx create-react-app my-app
 
 ## Dependencies
 // in your React project: 
@@ -28,3 +27,17 @@ Responsive grid → Works on all devices
 1. Go to Google Cloud Console - https://console.cloud.google.com/
 2. Create a project → Enable YouTube Data API v3
 3. Create an API Key (keep it secret)
+
+
+### Install Node version manager (nvm), Node.js and npm
+
+https://github.com/nvm-sh/nvm?tab=readme-ov-file#intro
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+
+
+### Visual Studio Code + Reactjs
+
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+
+npx create-react-app my-app
